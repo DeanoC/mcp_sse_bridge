@@ -1,0 +1,7 @@
+#!/usr/bin/env python3
+"""
+Requirements file for the client example
+"""
+
+requests>=2.31.0
+sseclient-py>=1.7.2
